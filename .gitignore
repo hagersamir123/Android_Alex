@@ -1,0 +1,4 @@
+cached.txt
+*.png
+!c.png
+*.jpeg
